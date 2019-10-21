@@ -2,7 +2,7 @@
     "name": "deep_web_app",
     "version": "1.0.1",
     "description": "Node.js on Docker",
-    "author": "Dibyendu Sarkar <echo2deep@gmail.com>",
+    "author": "dibyendu sarkar <echo2deep@gmail.com>",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
