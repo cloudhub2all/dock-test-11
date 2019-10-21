@@ -1,5 +1,5 @@
 {
-    "name": "Deep_web_app",
+    "name": "deep_web_app",
     "version": "1.0.1",
     "description": "Node.js on Docker",
     "author": "Dibyendu Sarkar <echo2deep@gmail.com>",
